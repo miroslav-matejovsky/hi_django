@@ -8,7 +8,7 @@ Trying out Django for fun and profit.
 python manage.py runserver 8000
 ```
 
-## Open in browse
+## Open in browser
 
 ```shell
 open http://127.0.0.1:8000/polls/
