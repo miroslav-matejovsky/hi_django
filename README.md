@@ -1,6 +1,7 @@
 # Hi Django
 
-Trying out Django for fun and profit.
+Trying out [Django](https://www.djangoproject.com/) 5.0 for fun and profit
+by following a [tutorial](https://docs.djangoproject.com/en/5.0/intro/tutorial01/).
 
 ## Start Server
 
