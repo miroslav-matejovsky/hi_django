@@ -20,6 +20,12 @@ python manage.py runserver 8000
 python manage.py shell
 ```
 
+## Run tests
+
+```shell
+python manage.py test
+```
+
 ## Make DB migrations for polls app 
 
 ```shell
