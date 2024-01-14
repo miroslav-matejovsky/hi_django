@@ -3,6 +3,12 @@
 Trying out [Django](https://www.djangoproject.com/) 5.0 for fun and profit
 by following a [tutorial](https://docs.djangoproject.com/en/5.0/intro/tutorial01/).
 
+## Python virtual environment setup
+
+```sh
+virtualenv .venv && source .venv/bin/activate && pip install -r requirements.txt
+```
+
 ## Start Server
 
 ```shell
