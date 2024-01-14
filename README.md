@@ -32,7 +32,7 @@ python manage.py shell
 python manage.py test
 ```
 
-## Make DB migrations for polls app 
+## Make DB migrations for polls app
 
 ```shell
 python manage.py makemigrations polls
