@@ -55,3 +55,9 @@ python manage.py migrate
 ```shell
 python manage.py createsuperuser
 ```
+
+## Links in markdown
+
+- Link to the section in the same document: [link](#apply-db-migrations)
+- Link to other document: [link](docs/some_other_document.md)
+- Link to section in other document [link](docs/some_other_document.md#section-on-some-other-page)
